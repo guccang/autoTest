@@ -1,0 +1,9 @@
+[begin]
+taskName=1001
+taskDes=ranking
+dely=1000
+ThreadNum=1
+RunTimes=1
+case=1001-1000
+Parms_1001=version:1.09&PageIndex:-1
+[end]

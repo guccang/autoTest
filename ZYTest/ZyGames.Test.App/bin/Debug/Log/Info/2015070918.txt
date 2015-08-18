@@ -1,0 +1,15 @@
+18:10:26 script compiled successfully.
+Time:2015-07-09 18:10:43:962----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	2000
+Faild count:	1
+>>Step 2000: success:0, fail:1
+    AVE:	10090.487800ms
+    Min:	10090.487800ms
+    Max:	10090.487800ms
+    TotalTime:	10297.000000ms
+End testing.
+
+
+

@@ -1,0 +1,64 @@
+Time:2015-07-08 17:24:18:132-Trace>>17:24:18>>无法连接到远程服务器
+
+
+
+Time:2015-07-08 17:25:23:464-Trace>>17:25:23>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:30:136-Trace>>17:26:30>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:31:282-Trace>>17:26:31>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:31:516-Trace>>17:26:31>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:40:781-Trace>>17:26:40>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:45:704-Trace>>17:26:45>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:46:013-Trace>>17:26:46>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:46:233-Trace>>17:26:46>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:46:410-Trace>>17:26:46>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:26:46:600-Trace>>17:26:46>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:32:48:762-Trace>>17:32:48>>操作超时
+
+
+
+Time:2015-07-08 17:49:43:684-Trace>>17:49:43>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-08 17:53:48:968-Trace>>17:53:48>>操作超时
+
+
+
+Time:2015-07-08 17:54:38:534-Trace>>17:54:38>>操作超时
+
+
+
+Time:2015-07-08 17:58:25:143-Trace>>17:58:25>>操作超时
+
+
+

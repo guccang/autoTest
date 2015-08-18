@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe</StartProgram>
+    <StartWorkingDirectory>C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>发布\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartAction>Program</StartAction>
+    <StartProgram>E:\scutgame-Scut-master\Scut\Source\Tools\ZyGames.Test\ZyGames.Test.App\bin\Release\ZyGames.Test.App.exe</StartProgram>
+    <StartWorkingDirectory>E:\scutgame-Scut-master\Scut\Source\Tools\ZyGames.Test\ZyGames.Test.App\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

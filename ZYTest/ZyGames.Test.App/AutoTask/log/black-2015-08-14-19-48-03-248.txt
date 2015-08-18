@@ -1,0 +1,54 @@
+-------------------2015/8/14 19:48:02-----------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1002-1000
+Faild count:	0
+=====2000-1002(2015/8/14 19:48:01)
+=====�����ļ� v1.09
+>>Step 1002: success:1, fail:0
+    AVE:	33.596500ms
+    Min:	33.596500ms
+    Max:	33.596500ms
+    TotalTime:	44.000000ms
+req/res:
+request :{"Ip":null,"Version":"1.09"}
+response:"Datas":"ext":0,30001
+"type":0
+"ext":0,30006
+"type":1
+"ext":0,30001
+"type":2
+"ext":0,30001
+"type":3
+"ext":1,30006
+"type":4
+"ext":0,30006
+"type":5
+"ext":1,30002
+"type":6
+"ext":0,30008
+"type":7
+"ext":0,30006
+"type":8
+"ext":1000,1,0,30001,30006
+"type":100
+"ext":1001,0,1,30005
+"type":101
+"ext":0
+"type":180
+"ext":0
+"type":181
+"ext":0
+"type":182
+"ext":1
+"type":183
+"ext":1
+"type":191
+"ext":0,0,100,200,400,600,800,2000,5000
+"type":192
+"ext":2,11,21,2,11,21,2,11,21
+"type":253
+
+
+=====2000-1002:End
+Finish testing.

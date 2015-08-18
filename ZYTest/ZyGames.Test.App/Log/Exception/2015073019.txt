@@ -1,0 +1,8 @@
+Time:2015-07-30 19:22:26:739-Trace>>19:22:26>>Get CaseStep object is null, type:ZyGames.Quanmin.Test.Case.Step1010, script code:Case.Step1010.cs
+
+
+
+Time:2015-07-30 19:24:06:359-Trace>>19:24:06>>Get CaseStep object is null, type:ZyGames.Quanmin.Test.Case.Step1010, script code:Case.Step1010.cs
+
+
+

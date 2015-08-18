@@ -1,0 +1,56 @@
+Time:2015-07-29 18:02:04:251-Trace>>StartRun error:System.ArgumentException: "20001,PageSize" converted to type int fail.
+   在 ZyGames.Framework.Common.MathUtils.ToInt(Object value) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework.Common\MathUtils.cs:行号 1144
+   在 ZyGames.Framework.Common.ObjectExtend.ToInt(Object value) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework.Common\ObjectExtend.cs:行号 296
+   在 ZyGames.Test.CaseStep.GetParamsData(String key, Int32 defaultKey) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\CaseStep.cs:行号 96
+   在 ZyGames.Quanmin.Test.Case.Step1001.SetUrlElement()
+   在 ZyGames.Test.CaseStep.StartRun() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\CaseStep.cs:行号 245
+
+
+Time:2015-07-29 18:07:46:904-Trace>>18:07:46>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-29 18:13:13:954-Trace>>18:12:15>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-29 18:22:33:729-Trace>>18:22:33>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-29 18:26:03:957-Trace>>18:26:03>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-29 18:27:26:988-Trace>>18:27:26>>操作超时
+
+
+
+Time:2015-07-29 18:29:08:559-Trace>>18:29:08>>操作超时
+
+
+
+Time:2015-07-29 18:29:23:641-Trace>>18:29:23>>操作超时
+
+
+
+Time:2015-07-29 18:30:22:291-Trace>>18:30:22>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-29 18:31:37:183-Trace>>18:31:37>>操作超时
+
+
+
+Time:2015-07-29 18:31:52:240-Trace>>18:31:52>>操作超时
+
+
+
+Time:2015-07-29 18:31:56:260-Trace>>18:31:56>>基础连接已经关闭: 接收时发生错误。
+
+
+
+Time:2015-07-29 18:32:01:362-Trace>>18:32:01>>无法连接到远程服务器
+
+
+

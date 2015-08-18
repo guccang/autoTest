@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <!--Game info setting-->
+    <add key="CSharpRootPath" value="Case" />
+    <add key="Request.Timeout" value="5000" />
+    <add key="CaseStep.Type.Format" value="ZyGames.Quanmin.Test.Case.Step{0}" />
+    <add key="CaseStep.Script.Format" value="Case.Step{0}.cs" />
+    <add key="Test.SignKey" value="" />
+    <add key="Test.EncodePwdKey" value="j6=9=1ac" />
+    <!-- 123.57.73.204 
+        "http://182.92.156.9:8036/Service.aspx" 
+        "http://123.57.73.204:8036/Service.aspx"
+        "http://192.168.0.10:8036/Service.aspx"
+        "http://192.168.1.107:8036/Service.aspx"
+    -->
+    <add key="Test.Url" value=   "http://127.0.0.1:8036/Service.aspx"   />
+    <add key="Test.GameId" value="1" />
+    <add key="Test.ServerId" value="1" />
+    <!--Test setting
+        Test.Steps:
+        Test.Pid:Z60000-Z66000        
+        60000->Test.Uid=1426395
+        60500->Test.Uid=1426895
+        61000->Test.Uid=1427395
+        61500->Test.Uid=1427895
+        62000->Test.Uid=1428395
+    -->
+
+    <!-- 并发数-->
+    <add key="Test.ThreadNum" value="1" />
+    <add key="Test.Runtimes" value="1" />
+
+    <!-- not used -->
+    <add key="Test.Pid" value="62000" />
+    <add key="Test.Uid" value="1426395" />
+    <add key="Test.UserPwd" value="1234567" />
+    
+    <!-- 测试者名字，服务器数据归类用-->
+    <add key="Test.UserName" value="Json" />
+    
+    <!--
+    <add key="Test.Steps" value="1004,100=10"/>
+    -->
+    <add key="Test.Steps" value="1000,1001" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+    
+     <!--
+     3rdid#2500000000,userid,username,type
+     reCreateHappy#YYS_CP360
+     enterCnt#500
+    -->
+    <add key="Test.Params2000" value="3rdid#444444,444444,name,type" />
+  </appSettings>
+  
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
+  </startup>
+    
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+
+  <system.net>
+    <settings>
+      <httpWebRequest useUnsafeHeaderParsing="true" />
+    </settings>
+
+    <connectionManagement>
+      <add address = "http://www.google.com" maxconnection = "1024" />
+      <add address = "*" maxconnection = "1024" />
+    </connectionManagement>
+    
+  </system.net>
+
+</configuration>

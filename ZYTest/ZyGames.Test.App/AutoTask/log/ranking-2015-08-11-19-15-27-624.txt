@@ -1,0 +1,52 @@
+-------------------2015/8/11 19:15:26-----------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001-1000
+Faild count:	0
+=====1001-1001(2015/8/11 19:15:25)
+=====ranking
+>>Step 1001: success:1, fail:0
+    AVE:	11.390900ms
+    Min:	11.390900ms
+    Max:	11.390900ms
+    TotalTime:	13.000000ms
+req/res:
+request :{"PageIndex":-1,"PageSize":1,"UserID":111111,"version":"1.09"}
+response:"Items":"Score":-1,"UserID":111111,"UserName":"self","pos":25
+"Score":888,"UserID":20,"UserName":"ztj888","pos":1
+"Score":888,"UserID":19,"UserName":"ztj888","pos":2
+"Score":888,"UserID":18,"UserName":"ztj888","pos":3
+"Score":888,"UserID":17,"UserName":"ztj888","pos":4
+"Score":888,"UserID":16,"UserName":"ztj888","pos":5
+"Score":888,"UserID":15,"UserName":"ztj888","pos":6
+"Score":888,"UserID":14,"UserName":"ztj888","pos":7
+"Score":848,"UserID":8,"UserName":"Computer_self1","pos":8
+"Score":814,"UserID":25,"UserName":"Computer_self6","pos":9
+"Score":615,"UserID":22,"UserName":"Computer_self3","pos":10
+"Score":252,"UserID":9,"UserName":"Computer_self1","pos":20
+"ItemsExScore":"Score":-1,"UserID":111111,"UserName":"0,-1","pos":0
+"Score":50,"UserID":13,"UserName":"ztj","pos":0
+"Score":45,"UserID":5,"UserName":"ztj","pos":1
+"Score":40,"UserID":4,"UserName":"ztj","pos":2
+"Score":35,"UserID":3,"UserName":"ztj","pos":3
+"Score":35,"UserID":2,"UserName":"ztj","pos":4
+"Score":30,"UserID":21,"UserName":"ztj888","pos":5
+"Score":30,"UserID":20,"UserName":"ztj888","pos":6
+"Score":30,"UserID":12,"UserName":"Computer_self2","pos":7
+"Score":30,"UserID":11,"UserName":"Computer_self1","pos":8
+"Score":30,"UserID":1,"UserName":"ztj","pos":9
+"Score":25,"UserID":25,"UserName":"Computer_self6","pos":10
+"Score":25,"UserID":23,"UserName":"Computer_self4","pos":11
+"Score":25,"UserID":22,"UserName":"Computer_self3","pos":12
+"Score":25,"UserID":19,"UserName":"ztj888","pos":13
+"Score":25,"UserID":18,"UserName":"ztj888","pos":14
+"Score":25,"UserID":17,"UserName":"ztj888","pos":15
+"Score":25,"UserID":16,"UserName":"ztj888","pos":16
+"Score":25,"UserID":15,"UserName":"ztj888","pos":17
+"Score":25,"UserID":14,"UserName":"ztj888","pos":18
+"Score":25,"UserID":8,"UserName":"Computer_self1","pos":19
+"PageCount":0,"hightScore":888,"lowScore":-1,"totalPlayer":24,"youPos":25
+
+
+=====1001-1001:End
+Finish testing.

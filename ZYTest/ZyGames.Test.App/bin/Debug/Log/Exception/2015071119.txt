@@ -1,0 +1,48 @@
+Time:2015-07-11 19:12:05:794-Trace>>19:12:05>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:07:428-Trace>>19:12:07>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:08:416-Trace>>19:12:08>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:08:737-Trace>>19:12:08>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:08:938-Trace>>19:12:08>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:155-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:279-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:442-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:598-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:762-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:09:942-Trace>>19:12:09>>Step netReader.StatusCode 1005
+
+
+
+Time:2015-07-11 19:12:10:082-Trace>>19:12:10>>Step netReader.StatusCode 1005
+
+
+

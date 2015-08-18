@@ -1,0 +1,11 @@
+Time:2015-07-09 11:58:09:910-Trace>>Main error:System.NullReferenceException: Get CaseStep object is null, type:ZyGames.Quanmin.Test.Case.Step1003, script code:Case.Step1003.cs
+   在 ZyGames.Test.CaseStep.Create(String formatType, String stepName, Int32 index) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\CaseStep.cs:行号 57
+   在 ZyGames.Test.ThreadManager.RunStep(StringBuilder stepBuilder, List`1 sessionList, TaskSetting setting, String stepName, Int32 runtimes) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 86
+   在 ZyGames.Test.ThreadManager.RunTest(TaskSetting setting) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 64
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test.App\Program.cs:行号 61
+
+
+Time:2015-07-09 11:58:38:083-Trace>>11:58:38>>操作超时
+
+
+

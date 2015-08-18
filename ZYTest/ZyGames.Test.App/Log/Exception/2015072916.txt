@@ -1,0 +1,30 @@
+Time:2015-07-29 16:01:39:423-Trace>>Main error:System.IO.DirectoryNotFoundException: 未能找到路径“C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\AutoTaskLogs\task001-2015-07-29-16-01-39-373.txt”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path)
+   在 ZyGames.Test.autoTest.write(String name, String info) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 147
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 156
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 175
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 16:47:09:633-Trace>>16:47:09>>操作超时
+
+
+
+Time:2015-07-29 16:47:20:727-Trace>>16:47:20>>操作超时
+
+
+
+Time:2015-07-29 16:47:32:776-Trace>>16:47:32>>操作超时
+
+
+
+Time:2015-07-29 16:47:45:853-Trace>>16:47:45>>操作超时
+
+
+

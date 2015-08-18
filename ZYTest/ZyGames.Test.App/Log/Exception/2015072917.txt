@@ -1,0 +1,38 @@
+Time:2015-07-29 17:17:29:753-Trace>>17:17:29>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-29 17:17:29:794-Trace>>Main error:System.ArgumentException: "5000，1005" converted to type int fail.
+   在 ZyGames.Framework.Common.MathUtils.ToInt(Object value) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework.Common\MathUtils.cs:行号 1144
+   在 ZyGames.Framework.Common.ObjectExtend.ToInt(Object value) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework.Common\ObjectExtend.cs:行号 296
+   在 ZyGames.Test.ThreadManager.RunTest(TaskSetting setting) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\ThreadManager.cs:行号 67
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 133
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 156
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 175
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 17:20:21:102-Trace>>17:20:21>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-29 17:22:58:927-Trace>>17:22:58>>Step netReader.StatusCode 2000
+
+
+
+Time:2015-07-29 17:37:40:275-Trace>>17:37:40>>操作超时
+
+
+
+Time:2015-07-29 17:37:48:563-Trace>>17:37:48>>无法连接到远程服务器
+
+
+
+Time:2015-07-29 17:37:51:627-Trace>>17:37:51>>无法连接到远程服务器
+
+
+
+Time:2015-07-29 17:37:55:720-Trace>>17:37:55>>无法连接到远程服务器
+
+
+

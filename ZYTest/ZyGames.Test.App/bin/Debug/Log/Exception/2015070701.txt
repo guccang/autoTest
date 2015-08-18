@@ -1,0 +1,70 @@
+Time:2015-07-07 01:45:07:634-Compile assembly:DynamicScripts.CsScript error:
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.1.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.2.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.3.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.4.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.1.cs, Line:39
+Message:未能找到类型或命名空间名称“ResponsePack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.2.cs, Line:40
+Message:未能找到类型或命名空间名称“Response1002Pack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.3.cs, Line:39
+Message:未能找到类型或命名空间名称“ResponsePack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\zbktedht.4.cs, Line:39
+Message:未能找到类型或命名空间名称“Response1001Pack”(是否缺少 using 指令或程序集引用?)
+
+
+Time:2015-07-07 01:45:07:665-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 373
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 325
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 317
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 85
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptRuntimeScope.cs:行号 254
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptRuntimeDomain.cs:行号 122
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 182
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 102.
+
+
+Time:2015-07-07 01:45:07:665-Trace>>Main error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 112
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\Program.cs:行号 45
+
+
+Time:2015-07-07 01:47:30:177-Compile assembly:DynamicScripts.CsScript error:
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.1.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.2.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.3.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.4.cs, Line:28
+Message:未能找到类型或命名空间名称“GameRanking”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.1.cs, Line:39
+Message:未能找到类型或命名空间名称“ResponsePack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.2.cs, Line:40
+Message:未能找到类型或命名空间名称“Response1002Pack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.3.cs, Line:39
+Message:未能找到类型或命名空间名称“ResponsePack”(是否缺少 using 指令或程序集引用?)
+File:c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\bin\Debug\temp\wkuvjppd.4.cs, Line:39
+Message:未能找到类型或命名空间名称“Response1001Pack”(是否缺少 using 指令或程序集引用?)
+
+
+Time:2015-07-07 01:47:30:208-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 373
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 325
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 317
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\CSharpRuntimeScope.cs:行号 85
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptRuntimeScope.cs:行号 254
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptRuntimeDomain.cs:行号 122
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 182
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 102.
+
+
+Time:2015-07-07 01:47:30:208-Trace>>Main error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize() 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptEngines.cs:行号 112
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\ServiceN\scutgame-Scut-master\ZYTest\ZyGames.Test.App\Program.cs:行号 45
+
+

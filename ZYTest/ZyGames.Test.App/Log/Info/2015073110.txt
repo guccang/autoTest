@@ -1,0 +1,6 @@
+10:58:57 script compiled successfully.
+10:58:57 Start checking table schema, please wait.
+10:58:57 Check table schema successfully.
+10:59:43 script compiled successfully.
+10:59:43 Start checking table schema, please wait.
+10:59:43 Check table schema successfully.

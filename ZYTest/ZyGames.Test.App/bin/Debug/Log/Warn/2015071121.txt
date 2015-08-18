@@ -1,0 +1,14 @@
+Time:2015-07-11 21:47:36:256-Trace>>ClearTemp dir C:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“Microsoft.Scripting.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-11 21:47:36:764-Trace>>ClearTemp dir C:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“ggpmzwe0.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+

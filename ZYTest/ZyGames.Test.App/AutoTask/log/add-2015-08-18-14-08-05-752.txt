@@ -1,0 +1,316 @@
+-------------------2015/8/18 14:08:04-----------------------
+ThreadNum:	100
+Runtimes:	1
+Run steps:	1000-1000
+Faild count:	0
+=====1000-1000(2015/8/18 14:08:03)
+=====��������
+>>Step 1000: success:100, fail:0
+    AVE:	9.579641ms
+    Min:	1.313300ms
+    Max:	129.661100ms
+    TotalTime:	328.000000ms
+req/res:
+request :{"Identify":"Computer_1","Score":346,"UserID":-10,"UserName":"Computer_1","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":31,"St":null,"UserID":31}
+
+request :{"Identify":"Computer_2","Score":886,"UserID":-10,"UserName":"Computer_2","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":29,"St":null,"UserID":29}
+
+request :{"Identify":"Computer_3","Score":343,"UserID":-10,"UserName":"Computer_3","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":28,"St":null,"UserID":28}
+
+request :{"Identify":"Computer_4","Score":112,"UserID":-10,"UserName":"Computer_4","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":30,"St":null,"UserID":30}
+
+request :{"Identify":"Computer_5","Score":976,"UserID":-10,"UserName":"Computer_5","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":34,"St":null,"UserID":34}
+
+request :{"Identify":"Computer_6","Score":773,"UserID":-10,"UserName":"Computer_6","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":35,"St":null,"UserID":35}
+
+request :{"Identify":"Computer_7","Score":496,"UserID":-10,"UserName":"Computer_7","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":33,"St":null,"UserID":33}
+
+request :{"Identify":"Computer_8","Score":496,"UserID":-10,"UserName":"Computer_8","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":32,"St":null,"UserID":32}
+
+request :{"Identify":"Computer_9","Score":990,"UserID":-10,"UserName":"Computer_9","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":38,"St":null,"UserID":38}
+
+request :{"Identify":"Computer_10","Score":278,"UserID":-10,"UserName":"Computer_10","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":36,"St":null,"UserID":36}
+
+request :{"Identify":"Computer_11","Score":700,"UserID":-10,"UserName":"Computer_11","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":37,"St":null,"UserID":37}
+
+request :{"Identify":"Computer_12","Score":102,"UserID":-10,"UserName":"Computer_12","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":39,"St":null,"UserID":39}
+
+request :{"Identify":"Computer_13","Score":158,"UserID":-10,"UserName":"Computer_13","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":40,"St":null,"UserID":40}
+
+request :{"Identify":"Computer_14","Score":108,"UserID":-10,"UserName":"Computer_14","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":44,"St":null,"UserID":44}
+
+request :{"Identify":"Computer_15","Score":732,"UserID":-10,"UserName":"Computer_15","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":41,"St":null,"UserID":41}
+
+request :{"Identify":"Computer_16","Score":124,"UserID":-10,"UserName":"Computer_16","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":42,"St":null,"UserID":42}
+
+request :{"Identify":"Computer_17","Score":959,"UserID":-10,"UserName":"Computer_17","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":43,"St":null,"UserID":43}
+
+request :{"Identify":"Computer_18","Score":796,"UserID":-10,"UserName":"Computer_18","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":45,"St":null,"UserID":45}
+
+request :{"Identify":"Computer_19","Score":938,"UserID":-10,"UserName":"Computer_19","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":46,"St":null,"UserID":46}
+
+request :{"Identify":"Computer_20","Score":770,"UserID":-10,"UserName":"Computer_20","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":47,"St":null,"UserID":47}
+
+request :{"Identify":"Computer_21","Score":673,"UserID":-10,"UserName":"Computer_21","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":49,"St":null,"UserID":49}
+
+request :{"Identify":"Computer_22","Score":645,"UserID":-10,"UserName":"Computer_22","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":48,"St":null,"UserID":48}
+
+request :{"Identify":"Computer_23","Score":557,"UserID":-10,"UserName":"Computer_23","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":50,"St":null,"UserID":50}
+
+request :{"Identify":"Computer_24","Score":847,"UserID":-10,"UserName":"Computer_24","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":51,"St":null,"UserID":51}
+
+request :{"Identify":"Computer_25","Score":753,"UserID":-10,"UserName":"Computer_25","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":52,"St":null,"UserID":52}
+
+request :{"Identify":"Computer_26","Score":134,"UserID":-10,"UserName":"Computer_26","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":53,"St":null,"UserID":53}
+
+request :{"Identify":"Computer_27","Score":207,"UserID":-10,"UserName":"Computer_27","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":54,"St":null,"UserID":54}
+
+request :{"Identify":"Computer_28","Score":233,"UserID":-10,"UserName":"Computer_28","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":56,"St":null,"UserID":56}
+
+request :{"Identify":"Computer_29","Score":811,"UserID":-10,"UserName":"Computer_29","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":55,"St":null,"UserID":55}
+
+request :{"Identify":"Computer_30","Score":452,"UserID":-10,"UserName":"Computer_30","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":57,"St":null,"UserID":57}
+
+request :{"Identify":"Computer_31","Score":813,"UserID":-10,"UserName":"Computer_31","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":58,"St":null,"UserID":58}
+
+request :{"Identify":"Computer_32","Score":271,"UserID":-10,"UserName":"Computer_32","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":59,"St":null,"UserID":59}
+
+request :{"Identify":"Computer_33","Score":643,"UserID":-10,"UserName":"Computer_33","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":61,"St":null,"UserID":61}
+
+request :{"Identify":"Computer_34","Score":245,"UserID":-10,"UserName":"Computer_34","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":60,"St":null,"UserID":60}
+
+request :{"Identify":"Computer_35","Score":626,"UserID":-10,"UserName":"Computer_35","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":64,"St":null,"UserID":64}
+
+request :{"Identify":"Computer_36","Score":344,"UserID":-10,"UserName":"Computer_36","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":62,"St":null,"UserID":62}
+
+request :{"Identify":"Computer_37","Score":763,"UserID":-10,"UserName":"Computer_37","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":63,"St":null,"UserID":63}
+
+request :{"Identify":"Computer_38","Score":812,"UserID":-10,"UserName":"Computer_38","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":66,"St":null,"UserID":66}
+
+request :{"Identify":"Computer_39","Score":167,"UserID":-10,"UserName":"Computer_39","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":65,"St":null,"UserID":65}
+
+request :{"Identify":"Computer_40","Score":701,"UserID":-10,"UserName":"Computer_40","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":67,"St":null,"UserID":67}
+
+request :{"Identify":"Computer_41","Score":138,"UserID":-10,"UserName":"Computer_41","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":68,"St":null,"UserID":68}
+
+request :{"Identify":"Computer_42","Score":28,"UserID":-10,"UserName":"Computer_42","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":70,"St":null,"UserID":70}
+
+request :{"Identify":"Computer_43","Score":931,"UserID":-10,"UserName":"Computer_43","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":69,"St":null,"UserID":69}
+
+request :{"Identify":"Computer_44","Score":531,"UserID":-10,"UserName":"Computer_44","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":72,"St":null,"UserID":72}
+
+request :{"Identify":"Computer_45","Score":156,"UserID":-10,"UserName":"Computer_45","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":71,"St":null,"UserID":71}
+
+request :{"Identify":"Computer_46","Score":484,"UserID":-10,"UserName":"Computer_46","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":73,"St":null,"UserID":73}
+
+request :{"Identify":"Computer_47","Score":690,"UserID":-10,"UserName":"Computer_47","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":74,"St":null,"UserID":74}
+
+request :{"Identify":"Computer_48","Score":500,"UserID":-10,"UserName":"Computer_48","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":76,"St":null,"UserID":76}
+
+request :{"Identify":"Computer_49","Score":308,"UserID":-10,"UserName":"Computer_49","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":75,"St":null,"UserID":75}
+
+request :{"Identify":"Computer_50","Score":455,"UserID":-10,"UserName":"Computer_50","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":78,"St":null,"UserID":78}
+
+request :{"Identify":"Computer_51","Score":308,"UserID":-10,"UserName":"Computer_51","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":77,"St":null,"UserID":77}
+
+request :{"Identify":"Computer_52","Score":828,"UserID":-10,"UserName":"Computer_52","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":79,"St":null,"UserID":79}
+
+request :{"Identify":"Computer_53","Score":567,"UserID":-10,"UserName":"Computer_53","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":80,"St":null,"UserID":80}
+
+request :{"Identify":"Computer_54","Score":966,"UserID":-10,"UserName":"Computer_54","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":81,"St":null,"UserID":81}
+
+request :{"Identify":"Computer_55","Score":455,"UserID":-10,"UserName":"Computer_55","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":82,"St":null,"UserID":82}
+
+request :{"Identify":"Computer_56","Score":889,"UserID":-10,"UserName":"Computer_56","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":84,"St":null,"UserID":84}
+
+request :{"Identify":"Computer_57","Score":329,"UserID":-10,"UserName":"Computer_57","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":83,"St":null,"UserID":83}
+
+request :{"Identify":"Computer_58","Score":498,"UserID":-10,"UserName":"Computer_58","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":85,"St":null,"UserID":85}
+
+request :{"Identify":"Computer_59","Score":590,"UserID":-10,"UserName":"Computer_59","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":88,"St":null,"UserID":88}
+
+request :{"Identify":"Computer_60","Score":977,"UserID":-10,"UserName":"Computer_60","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":86,"St":null,"UserID":86}
+
+request :{"Identify":"Computer_61","Score":770,"UserID":-10,"UserName":"Computer_61","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":87,"St":null,"UserID":87}
+
+request :{"Identify":"Computer_62","Score":541,"UserID":-10,"UserName":"Computer_62","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":90,"St":null,"UserID":90}
+
+request :{"Identify":"Computer_63","Score":684,"UserID":-10,"UserName":"Computer_63","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":89,"St":null,"UserID":89}
+
+request :{"Identify":"Computer_64","Score":538,"UserID":-10,"UserName":"Computer_64","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":93,"St":null,"UserID":93}
+
+request :{"Identify":"Computer_65","Score":464,"UserID":-10,"UserName":"Computer_65","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":91,"St":null,"UserID":91}
+
+request :{"Identify":"Computer_66","Score":429,"UserID":-10,"UserName":"Computer_66","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":92,"St":null,"UserID":92}
+
+request :{"Identify":"Computer_67","Score":459,"UserID":-10,"UserName":"Computer_67","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":95,"St":null,"UserID":95}
+
+request :{"Identify":"Computer_68","Score":913,"UserID":-10,"UserName":"Computer_68","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":94,"St":null,"UserID":94}
+
+request :{"Identify":"Computer_69","Score":481,"UserID":-10,"UserName":"Computer_69","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":96,"St":null,"UserID":96}
+
+request :{"Identify":"Computer_70","Score":360,"UserID":-10,"UserName":"Computer_70","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":98,"St":null,"UserID":98}
+
+request :{"Identify":"Computer_71","Score":388,"UserID":-10,"UserName":"Computer_71","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":97,"St":null,"UserID":97}
+
+request :{"Identify":"Computer_72","Score":148,"UserID":-10,"UserName":"Computer_72","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":100,"St":null,"UserID":100}
+
+request :{"Identify":"Computer_73","Score":629,"UserID":-10,"UserName":"Computer_73","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":99,"St":null,"UserID":99}
+
+request :{"Identify":"Computer_74","Score":237,"UserID":-10,"UserName":"Computer_74","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":101,"St":null,"UserID":101}
+
+request :{"Identify":"Computer_75","Score":633,"UserID":-10,"UserName":"Computer_75","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":102,"St":null,"UserID":102}
+
+request :{"Identify":"Computer_76","Score":646,"UserID":-10,"UserName":"Computer_76","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":104,"St":null,"UserID":104}
+
+request :{"Identify":"Computer_77","Score":713,"UserID":-10,"UserName":"Computer_77","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":103,"St":null,"UserID":103}
+
+request :{"Identify":"Computer_78","Score":26,"UserID":-10,"UserName":"Computer_78","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":105,"St":null,"UserID":105}
+
+request :{"Identify":"Computer_79","Score":692,"UserID":-10,"UserName":"Computer_79","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":106,"St":null,"UserID":106}
+
+request :{"Identify":"Computer_80","Score":269,"UserID":-10,"UserName":"Computer_80","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":109,"St":null,"UserID":109}
+
+request :{"Identify":"Computer_81","Score":444,"UserID":-10,"UserName":"Computer_81","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":107,"St":null,"UserID":107}
+
+request :{"Identify":"Computer_82","Score":706,"UserID":-10,"UserName":"Computer_82","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":110,"St":null,"UserID":110}
+
+request :{"Identify":"Computer_83","Score":924,"UserID":-10,"UserName":"Computer_83","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":108,"St":null,"UserID":108}
+
+request :{"Identify":"Computer_84","Score":356,"UserID":-10,"UserName":"Computer_84","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":112,"St":null,"UserID":112}
+
+request :{"Identify":"Computer_85","Score":144,"UserID":-10,"UserName":"Computer_85","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":111,"St":null,"UserID":111}
+
+request :{"Identify":"Computer_86","Score":985,"UserID":-10,"UserName":"Computer_86","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":114,"St":null,"UserID":114}
+
+request :{"Identify":"Computer_87","Score":985,"UserID":-10,"UserName":"Computer_87","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":115,"St":null,"UserID":115}
+
+request :{"Identify":"Computer_88","Score":704,"UserID":-10,"UserName":"Computer_88","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":113,"St":null,"UserID":113}
+
+request :{"Identify":"Computer_89","Score":676,"UserID":-10,"UserName":"Computer_89","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":117,"St":null,"UserID":117}
+
+request :{"Identify":"Computer_90","Score":789,"UserID":-10,"UserName":"Computer_90","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":118,"St":null,"UserID":118}
+
+request :{"Identify":"Computer_91","Score":736,"UserID":-10,"UserName":"Computer_91","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":116,"St":null,"UserID":116}
+
+request :{"Identify":"Computer_92","Score":16,"UserID":-10,"UserName":"Computer_92","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":119,"St":null,"UserID":119}
+
+request :{"Identify":"Computer_93","Score":687,"UserID":-10,"UserName":"Computer_93","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":120,"St":null,"UserID":120}
+
+request :{"Identify":"Computer_94","Score":266,"UserID":-10,"UserName":"Computer_94","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":121,"St":null,"UserID":121}
+
+request :{"Identify":"Computer_95","Score":632,"UserID":-10,"UserName":"Computer_95","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":123,"St":null,"UserID":123}
+
+request :{"Identify":"Computer_96","Score":223,"UserID":-10,"UserName":"Computer_96","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":124,"St":null,"UserID":124}
+
+request :{"Identify":"Computer_97","Score":190,"UserID":-10,"UserName":"Computer_97","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":122,"St":null,"UserID":122}
+
+request :{"Identify":"Computer_98","Score":931,"UserID":-10,"UserName":"Computer_98","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":126,"St":null,"UserID":126}
+
+request :{"Identify":"Computer_99","Score":931,"UserID":-10,"UserName":"Computer_99","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":127,"St":null,"UserID":127}
+
+request :{"Identify":"Computer_100","Score":597,"UserID":-10,"UserName":"Computer_100","ext01":0,"version":"1.08"}
+response:{"ActionId":1000,"ErrorCode":0,"ErrorInfo":"save success","MsgId":125,"St":null,"UserID":125}
+
+
+=====1000-1000:End
+Finish testing.

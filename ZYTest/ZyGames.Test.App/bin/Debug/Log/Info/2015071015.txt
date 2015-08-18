@@ -1,0 +1,29 @@
+Time:2015-07-10 15:06:31:524----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1000
+Faild count:	10000
+>>Step 1000: success:0, fail:10000
+    AVE:	5038.122397ms
+    Min:	1036.405300ms
+    Max:	20602.281800ms
+    TotalTime:	583643.000000ms
+End testing.
+
+
+
+15:50:48 script compiled successfully.
+Time:2015-07-10 15:54:26:264----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1000
+Faild count:	0
+>>Step 1000: success:10000, fail:0
+    AVE:	255.132465ms
+    Min:	17.887900ms
+    Max:	6465.039000ms
+    TotalTime:	215060.000000ms
+End testing.
+
+
+

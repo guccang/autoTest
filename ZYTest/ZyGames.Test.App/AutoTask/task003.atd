@@ -1,0 +1,10 @@
+[begin]
+taskName=ChildStep
+taskDes=ChildStep
+dely=1000
+ThreadNum=1
+RunTimes=1
+case=1000-1000
+child=1000:1002
+Parms_1002=Version:1.08
+[end]

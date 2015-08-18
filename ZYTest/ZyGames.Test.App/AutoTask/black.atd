@@ -1,0 +1,10 @@
+[begin]
+taskName=2000
+taskDes=ÅäÖÃÎÄ¼ş v1.09
+dely=1000
+ThreadNum=1
+RunTimes=1
+case=1001-1000
+Parms_2000=param:delById#616775,565721
+Parms_1002=Version:1.09
+[end]

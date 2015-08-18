@@ -1,0 +1,22 @@
+Time:2015-08-10 19:14:43:055-Trace>>StartRun error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Quanmin.Test.Case.configDIC..ctor()
+   在 ZyGames.Quanmin.Test.Case.Step1003.SetUrlElement()
+   在 ZyGames.Test.CaseStep.StartRun() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\CaseStep.cs:行号 219
+
+
+Time:2015-08-10 19:14:46:110-Trace>>19:14:46>>无法连接到远程服务器
+
+
+
+Time:2015-08-10 19:14:53:124-Trace>>19:14:53>>无法连接到远程服务器
+
+
+
+Time:2015-08-10 19:19:21:063-Trace>>19:19:21>>Step netReader.StatusCode 3000
+
+
+
+Time:2015-08-10 19:20:16:901-Trace>>19:20:16>>Step netReader.StatusCode 3000
+
+
+

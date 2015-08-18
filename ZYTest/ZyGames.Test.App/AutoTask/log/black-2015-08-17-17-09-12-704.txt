@@ -1,0 +1,63 @@
+-------------------2015/8/17 17:09:11-----------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001-1000
+Faild count:	0
+=====2000-1001(2015/8/17 17:09:10)
+=====�����ļ� v1.09
+>>Step 1001: success:1, fail:0
+    AVE:	2163.008700ms
+    Min:	2163.008700ms
+    Max:	2163.008700ms
+    TotalTime:	2265.000000ms
+req/res:
+request :{"PageIndex":-1,"PageSize":1,"UserID":111111,"version":"1.09"}
+response:"Items":"Score":-1,"UserID":111111,"UserName":"self","pos":99999
+"Score":86518,"UserID":1203445,"UserName":"骚气老爷们","pos":1
+"Score":66568,"UserID":819927,"UserName":"夜殇","pos":2
+"Score":48507,"UserID":956207,"UserName":"苹果","pos":3
+"Score":32677,"UserID":317789,"UserName":"女王","pos":4
+"Score":29807,"UserID":251826,"UserName":"弥纳娜亚","pos":5
+"Score":24315,"UserID":1226298,"UserName":"ci暴风雪","pos":6
+"Score":22487,"UserID":920056,"UserName":"吃素de兔子","pos":7
+"Score":20356,"UserID":493916,"UserName":"U无风","pos":8
+"Score":17863,"UserID":493837,"UserName":"圣帝蓝毒","pos":9
+"Score":17677,"UserID":592950,"UserName":"龙帅","pos":10
+"Score":12599,"UserID":1047368,"UserName":"琪琪GL","pos":20
+"Score":8172,"UserID":41551,"UserName":"多哥","pos":50
+"Score":6026,"UserID":27512,"UserName":"步风云","pos":100
+"Score":4479,"UserID":610929,"UserName":"个特特","pos":300
+"Score":4189,"UserID":505124,"UserName":"徐诚","pos":500
+"Score":3295,"UserID":519554,"UserName":"泛海心","pos":800
+"Score":3155,"UserID":416965,"UserName":"楼罗","pos":1000
+"Score":1852,"UserID":483150,"UserName":"灵飞飞","pos":2500
+"Score":915,"UserID":209057,"UserName":"追风","pos":4000
+"Score":914,"UserID":557302,"UserName":"雪心","pos":5000
+"Score":889,"UserID":581933,"UserName":"小火兽","pos":10000
+"Score":807,"UserID":554118,"UserName":"天使烧香","pos":30000
+"ItemsExScore":"Score":1,"UserID":111111,"UserName":"99998,1","pos":99998
+"Score":1790,"UserID":1203445,"UserName":"骚气老爷们","pos":0
+"Score":937,"UserID":808432,"UserName":"风儿过","pos":1
+"Score":615,"UserID":10758,"UserName":"随心所欲的畅玩","pos":2
+"Score":592,"UserID":824837,"UserName":"@越跑越疯狂","pos":3
+"Score":572,"UserID":814641,"UserName":"AYUKIMI","pos":4
+"Score":560,"UserID":1005737,"UserName":"酷哥的歌","pos":5
+"Score":530,"UserID":956207,"UserName":"苹果","pos":6
+"Score":518,"UserID":53865,"UserName":"人生若只如初见","pos":7
+"Score":410,"UserID":655708,"UserName":"我们","pos":8
+"Score":402,"UserID":332602,"UserName":"通无影","pos":9
+"Score":398,"UserID":317789,"UserName":"女王","pos":10
+"Score":396,"UserID":23574,"UserName":"梦子佩","pos":11
+"Score":394,"UserID":727584,"UserName":"洁","pos":12
+"Score":391,"UserID":734723,"UserName":"踏雪飞行","pos":13
+"Score":380,"UserID":1219217,"UserName":"男神经ߘπ","pos":14
+"Score":380,"UserID":60260,"UserName":"山神@和田玉","pos":15
+"Score":354,"UserID":816337,"UserName":"仙度俪娜","pos":16
+"Score":341,"UserID":590640,"UserName":"政府军","pos":17
+"Score":337,"UserID":697520,"UserName":"梦子佩","pos":18
+"Score":336,"UserID":1317780,"UserName":"希伊斯","pos":19
+"PageCount":0,"hightScore":86518,"lowScore":-1,"totalPlayer":1029233,"youPos":99999
+
+
+=====2000-1001:End
+Finish testing.

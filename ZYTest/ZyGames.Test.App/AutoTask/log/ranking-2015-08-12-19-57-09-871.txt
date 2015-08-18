@@ -1,0 +1,54 @@
+-------------------2015/8/12 19:57:08-----------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001-1000
+Faild count:	0
+=====1001-1001(2015/8/12 19:57:07)
+=====ranking
+>>Step 1001: success:1, fail:0
+    AVE:	863.238900ms
+    Min:	863.238900ms
+    Max:	863.238900ms
+    TotalTime:	977.000000ms
+req/res:
+request :{"PageIndex":-1,"PageSize":1,"UserID":111111,"version":"1.09"}
+response:"Items":"Score":-1,"UserID":111111,"UserName":"self","pos":1112
+"Score":1000,"UserID":10,"UserName":"Computer_self2","pos":1
+"Score":999,"UserID":1570,"UserName":"Computer_self697","pos":2
+"Score":999,"UserID":1429,"UserName":"Computer_self557","pos":3
+"Score":993,"UserID":1828,"UserName":"Computer_self955","pos":10
+"Score":985,"UserID":1509,"UserName":"Computer_self636","pos":15
+"Score":982,"UserID":1492,"UserName":"Computer_self619","pos":20
+"Score":944,"UserID":1218,"UserName":"Computer_self345","pos":50
+"Score":889,"UserID":1841,"UserName":"Computer_self968","pos":100
+"Score":687,"UserID":958,"UserName":"Computer_self85","pos":300
+"Score":606,"UserID":1303,"UserName":"Computer_self431","pos":387
+"Score":484,"UserID":1365,"UserName":"Computer_self491","pos":500
+"Score":192,"UserID":1534,"UserName":"Computer_self661","pos":800
+"Score":6,"UserID":1672,"UserName":"Computer_self799","pos":1000
+"ItemsExScore":"Score":6370,"UserID":111111,"UserName":"2,6370","pos":2
+"Score":15320,"UserID":10,"UserName":"Computer_self2","pos":0
+"Score":11570,"UserID":413,"UserName":"楼罗","pos":1
+"Score":6370,"UserID":111111,"UserName":"弥纳娜亚","pos":2
+"Score":5015,"UserID":4,"UserName":"self","pos":3
+"Score":4430,"UserID":6,"UserName":"self","pos":4
+"Score":4065,"UserID":9,"UserName":"self","pos":5
+"Score":3700,"UserID":25,"UserName":"self","pos":6
+"Score":3665,"UserID":510,"UserName":"qmzj_setting_####_v1.0.7","pos":7
+"Score":3585,"UserID":508,"UserName":"qmzj_setting_####_v1.0.7","pos":8
+"Score":3485,"UserID":509,"UserName":"qmzj_setting_####_v1.0.7","pos":9
+"Score":3450,"UserID":511,"UserName":"qmzj_setting_####_v1.0.7","pos":10
+"Score":3445,"UserID":507,"UserName":"qmzj_setting_####_v1.0.7","pos":11
+"Score":3420,"UserID":506,"UserName":"qmzj_setting_####_v1.0.7","pos":12
+"Score":3400,"UserID":505,"UserName":"qmzj_setting_####_v1.0.7","pos":13
+"Score":3370,"UserID":503,"UserName":"qmzj_setting_####_v1.0.7","pos":14
+"Score":3360,"UserID":504,"UserName":"qmzj_setting_####_v1.0.7","pos":15
+"Score":3335,"UserID":20,"UserName":"self","pos":16
+"Score":3335,"UserID":8,"UserName":"self","pos":17
+"Score":3330,"UserID":495,"UserName":"qmzj_setting_####_v1.0.7","pos":18
+"Score":3305,"UserID":498,"UserName":"qmzj_setting_####_v1.0.7","pos":19
+"PageCount":0,"hightScore":1000,"lowScore":-1,"totalPlayer":1482,"youPos":1112
+
+
+=====1001-1001:End
+Finish testing.

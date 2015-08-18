@@ -1,0 +1,178 @@
+Time:2015-07-11 04:00:02:161----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	4400.555100ms
+    Min:	4400.555100ms
+    Max:	4400.555100ms
+    TotalTime:	4541.000000ms
+End testing.
+
+
+
+Time:2015-07-11 04:01:22:359----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	6233.424400ms
+    Min:	6233.424400ms
+    Max:	6233.424400ms
+    TotalTime:	6234.000000ms
+End testing.
+
+
+
+04:02:33 script compiled successfully.
+04:02:34 Start checking table schema, please wait.
+04:02:34 Check table schema successfully.
+Time:2015-07-11 04:02:35:982----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	556.714800ms
+    Min:	556.714800ms
+    Max:	556.714800ms
+    TotalTime:	660.000000ms
+End testing.
+
+
+
+04:19:15 script compiled successfully.
+04:19:15 Start checking table schema, please wait.
+04:19:15 Check table schema successfully.
+Time:2015-07-11 04:19:16:862----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	514.092200ms
+    Min:	514.092200ms
+    Max:	514.092200ms
+    TotalTime:	635.000000ms
+End testing.
+
+
+
+04:24:17 script compiled successfully.
+04:24:17 Start checking table schema, please wait.
+04:24:17 Check table schema successfully.
+Time:2015-07-11 04:24:34:070----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	356.574700ms
+    Min:	356.574700ms
+    Max:	356.574700ms
+    TotalTime:	456.000000ms
+End testing.
+
+
+
+04:25:00 script compiled successfully.
+04:25:01 Start checking table schema, please wait.
+04:25:01 Check table schema successfully.
+Time:2015-07-11 04:25:01:911----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	136.928500ms
+    Min:	136.928500ms
+    Max:	136.928500ms
+    TotalTime:	237.000000ms
+End testing.
+
+
+
+04:41:56 script compiled successfully.
+04:41:56 Start checking table schema, please wait.
+04:41:56 Check table schema successfully.
+Time:2015-07-11 04:41:59:537----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	197.703300ms
+    Min:	197.703300ms
+    Max:	197.703300ms
+    TotalTime:	295.000000ms
+End testing.
+
+
+
+04:43:02 script compiled successfully.
+04:43:02 Start checking table schema, please wait.
+04:43:02 Check table schema successfully.
+Time:2015-07-11 04:43:03:830----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	140.569500ms
+    Min:	140.569500ms
+    Max:	140.569500ms
+    TotalTime:	241.000000ms
+End testing.
+
+
+
+04:43:25 script compiled successfully.
+04:43:25 Start checking table schema, please wait.
+04:43:25 Check table schema successfully.
+Time:2015-07-11 04:43:26:351----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	0
+>>Step 1007: success:1, fail:0
+    AVE:	140.943700ms
+    Min:	140.943700ms
+    Max:	140.943700ms
+    TotalTime:	253.000000ms
+End testing.
+
+
+
+04:44:14 script compiled successfully.
+04:44:14 Start checking table schema, please wait.
+04:44:14 Check table schema successfully.
+Time:2015-07-11 04:44:15:322----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	2000
+Faild count:	0
+>>Step 2000: success:1, fail:0
+    AVE:	186.779700ms
+    Min:	186.779700ms
+    Max:	186.779700ms
+    TotalTime:	291.000000ms
+End testing.
+
+
+
+Time:2015-07-11 04:49:50:234----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	2000
+Faild count:	0
+>>Step 2000: success:1, fail:0
+    AVE:	31.326100ms
+    Min:	31.326100ms
+    Max:	31.326100ms
+    TotalTime:	31.000000ms
+End testing.
+
+
+

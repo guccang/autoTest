@@ -1,0 +1,98 @@
+Time:2015-07-30 18:23:54:423-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“Utils.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:23:54:829-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“3pw0ckym.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:26:56:591-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“Utils.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:26:56:922-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“nmkzm1nl.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:28:07:301-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“ServiceStack.Redis.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:28:07:622-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“nmkzm1nl.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:28:58:089-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“ServiceStack.Redis.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:28:58:368-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“nmkzm1nl.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:30:11:800-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“Utils.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:30:12:149-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“mmpgvvd5.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:31:21:571-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“ServiceStack.Redis.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:33:23:762-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“ServiceStack.Redis.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:34:08:905-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\ScriptRuntimeDomain error:System.UnauthorizedAccessException: 对路径“Utils.DLL”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+
+Time:2015-07-30 18:34:09:341-Trace>>ClearTemp dir C:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\bin\Debug\temp error:System.UnauthorizedAccessException: 对路径“cwdy3d0e.dll”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 System.IO.Directory.Delete(String path, Boolean recursive)
+   在 ZyGames.Framework.Script.ScriptCompiler.ClearTemp(String dirName) 位置 c:\Users\tingjun\Documents\GitHub\Scut\Source\Framework\ZyGames.Framework\Script\ScriptCompiler.cs:行号 93
+
+

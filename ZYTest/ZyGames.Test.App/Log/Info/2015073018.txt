@@ -1,0 +1,63 @@
+18:07:15 script compiled successfully.
+18:07:15 Start checking table schema, please wait.
+18:07:15 Check table schema successfully.
+18:13:19 script compiled successfully.
+18:13:19 Start checking table schema, please wait.
+18:13:19 Check table schema successfully.
+18:21:45 script compiled successfully.
+18:21:45 Start checking table schema, please wait.
+18:21:45 Check table schema successfully.
+18:23:23 script compiled successfully.
+18:23:23 Start checking table schema, please wait.
+18:23:23 Check table schema successfully.
+18:23:55 script compiled successfully.
+18:23:55 Start checking table schema, please wait.
+18:23:55 Check table schema successfully.
+18:25:38 script compiled successfully.
+18:25:38 Start checking table schema, please wait.
+18:25:38 Check table schema successfully.
+18:26:57 script compiled successfully.
+18:26:57 Start checking table schema, please wait.
+18:26:57 Check table schema successfully.
+Update script file count:0.
+18:28:07 script compiled successfully.
+18:28:08 Start checking table schema, please wait.
+18:28:08 Check table schema successfully.
+Update script file count:0.
+18:28:58 script compiled successfully.
+18:28:58 Start checking table schema, please wait.
+18:28:58 Check table schema successfully.
+Update script file count:0.
+18:30:12 script compiled successfully.
+18:30:12 Start checking table schema, please wait.
+18:30:12 Check table schema successfully.
+Update script file count:0.
+Update script file count:0.
+18:31:22 script compiled successfully.
+18:31:22 Start checking table schema, please wait.
+18:31:22 Check table schema successfully.
+18:33:24 script compiled successfully.
+18:33:24 Start checking table schema, please wait.
+18:33:24 Check table schema successfully.
+18:34:09 script compiled successfully.
+18:34:09 Start checking table schema, please wait.
+18:34:09 Check table schema successfully.
+Update script file count:0.
+18:38:40 script compiled successfully.
+18:38:40 Start checking table schema, please wait.
+18:38:40 Check table schema successfully.
+18:39:17 script compiled successfully.
+18:39:17 Start checking table schema, please wait.
+18:39:17 Check table schema successfully.
+18:41:47 script compiled successfully.
+18:41:47 Start checking table schema, please wait.
+18:41:47 Check table schema successfully.
+18:42:15 script compiled successfully.
+18:42:15 Start checking table schema, please wait.
+18:42:15 Check table schema successfully.
+18:48:03 script compiled successfully.
+18:48:03 Start checking table schema, please wait.
+18:48:03 Check table schema successfully.
+18:48:21 script compiled successfully.
+18:48:21 Start checking table schema, please wait.
+18:48:21 Check table schema successfully.

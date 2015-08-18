@@ -1,0 +1,21 @@
+19:06:42 script compiled successfully.
+19:06:42 Start checking table schema, please wait.
+19:06:42 Check table schema successfully.
+Update script file count:2.
+19:21:21 csharp script compile start...
+19:21:21 csharp script compiled successfully.
+19:21:45 script compiled successfully.
+19:21:45 Start checking table schema, please wait.
+19:21:45 Check table schema successfully.
+19:23:25 script compiled successfully.
+19:23:25 Start checking table schema, please wait.
+19:23:25 Check table schema successfully.
+19:24:41 script compiled successfully.
+19:24:42 Start checking table schema, please wait.
+19:24:42 Check table schema successfully.
+Update script file count:1.
+19:30:25 csharp script compile start...
+19:30:25 csharp script compiled successfully.
+19:32:16 script compiled successfully.
+19:32:16 Start checking table schema, please wait.
+19:32:16 Check table schema successfully.

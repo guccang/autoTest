@@ -1,0 +1,14 @@
+Time:2015-07-09 17:07:23:810----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	15.752600ms
+    Min:	15.752600ms
+    Max:	15.752600ms
+    TotalTime:	16.000000ms
+End testing.
+
+
+

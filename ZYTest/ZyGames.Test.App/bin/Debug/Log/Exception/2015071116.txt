@@ -1,0 +1,38 @@
+Time:2015-07-11 16:02:15:323-Trace>>16:02:15>>操作超时
+
+
+
+Time:2015-07-11 16:23:33:088-Trace>>16:23:33>>操作超时
+
+
+
+Time:2015-07-11 16:26:56:627-Trace>>16:26:56>>操作超时
+
+
+
+Time:2015-07-11 16:27:22:036-Trace>>16:27:22>>操作超时
+
+
+
+Time:2015-07-11 16:28:29:980-Trace>>16:28:29>>Step netReader.StatusCode 1001
+
+
+
+Time:2015-07-11 16:37:01:458-Trace>>Main error:System.NullReferenceException: Get CaseStep object is null, type:ZyGames.Quanmin.Test.Case.Step1012, script code:Case.Step1012.cs
+   在 ZyGames.Test.CaseStep.Create(String formatType, String stepName, Int32 index) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\CaseStep.cs:行号 57
+   在 ZyGames.Test.ThreadManager.RunStep(StringBuilder stepBuilder, List`1 sessionList, TaskSetting setting, String stepName, Int32 runtimes) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 86
+   在 ZyGames.Test.ThreadManager.RunTest(TaskSetting setting) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 64
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test.App\Program.cs:行号 61
+
+
+Time:2015-07-11 16:39:28:736-Trace>>Main error:System.NullReferenceException: Get CaseStep object is null, type:ZyGames.Quanmin.Test.Case.Step1012, script code:Case.Step1012.cs
+   在 ZyGames.Test.CaseStep.Create(String formatType, String stepName, Int32 index) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\CaseStep.cs:行号 57
+   在 ZyGames.Test.ThreadManager.RunStep(StringBuilder stepBuilder, List`1 sessionList, TaskSetting setting, String stepName, Int32 runtimes) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 86
+   在 ZyGames.Test.ThreadManager.RunTest(TaskSetting setting) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test\ThreadManager.cs:行号 64
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\NSNSGameServer\ZYTest\ZyGames.Test.App\Program.cs:行号 61
+
+
+Time:2015-07-11 16:40:06:403-Trace>>16:40:06>>操作超时
+
+
+

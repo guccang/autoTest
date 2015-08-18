@@ -1,0 +1,89 @@
+19:37:04 script compiled successfully.
+Time:2015-07-09 19:37:36:603----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1005
+Faild count:	1
+>>Step 1005: success:0, fail:1
+    AVE:	10095.065800ms
+    Min:	10095.065800ms
+    Max:	10095.065800ms
+    TotalTime:	10211.000000ms
+End testing.
+
+
+
+19:38:38 script compiled successfully.
+19:40:34 script compiled successfully.
+Time:2015-07-09 19:41:11:163----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	2000
+Faild count:	1
+>>Step 2000: success:0, fail:1
+    AVE:	10085.765200ms
+    Min:	10085.765200ms
+    Max:	10085.765200ms
+    TotalTime:	10206.000000ms
+End testing.
+
+
+
+19:41:33 script compiled successfully.
+Time:2015-07-09 19:41:54:709----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1005
+Faild count:	1
+>>Step 1005: success:0, fail:1
+    AVE:	10083.956200ms
+    Min:	10083.956200ms
+    Max:	10083.956200ms
+    TotalTime:	10208.000000ms
+End testing.
+
+
+
+Time:2015-07-09 19:44:03:655----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1005
+Faild count:	1
+>>Step 1005: success:0, fail:1
+    AVE:	10059.009400ms
+    Min:	10059.009400ms
+    Max:	10059.009400ms
+    TotalTime:	10059.000000ms
+End testing.
+
+
+
+Time:2015-07-09 19:45:40:131----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1005
+Faild count:	1
+>>Step 1005: success:0, fail:1
+    AVE:	10056.900200ms
+    Min:	10056.900200ms
+    Max:	10056.900200ms
+    TotalTime:	10057.000000ms
+End testing.
+
+
+
+19:46:50 script compiled successfully.
+Time:2015-07-09 19:47:16:880----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1007
+Faild count:	1
+>>Step 1007: success:0, fail:1
+    AVE:	10093.455700ms
+    Min:	10093.455700ms
+    Max:	10093.455700ms
+    TotalTime:	10215.000000ms
+End testing.
+
+
+

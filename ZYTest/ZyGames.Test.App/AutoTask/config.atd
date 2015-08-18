@@ -1,0 +1,19 @@
+[begin]
+taskName=1002
+taskDes=配置文件 v1.09
+dely=1000
+ThreadNum=1
+RunTimes=1
+case=1002-1000
+Parms_1002=Version:1.09
+[end]
+
+[begin]
+taskName=1002
+taskDes=配置文件 v1.10
+dely=1000
+ThreadNum=1
+RunTimes=1
+case=1002-1000
+Parms_1002=Version:1.10
+[end]

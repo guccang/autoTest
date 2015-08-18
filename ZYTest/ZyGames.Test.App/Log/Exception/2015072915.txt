@@ -1,0 +1,62 @@
+Time:2015-07-29 15:52:59:015-Trace>>Main error:System.ArgumentOutOfRangeException: StartIndex 不能小于 0。
+参数名: startIndex
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 System.String.Substring(Int32 startIndex)
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 154
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 173
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 15:53:47:577-Trace>>Main error:System.NotSupportedException: 不支持给定路径的格式。
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path)
+   在 ZyGames.Test.autoTest.write(String name, String info) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 145
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 154
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 173
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 15:55:54:835-Trace>>Main error:System.NotSupportedException: 不支持给定路径的格式。
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path)
+   在 ZyGames.Test.autoTest.write(String name, String info) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 145
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 154
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 173
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 15:56:23:524-Trace>>Main error:System.NotSupportedException: 不支持给定路径的格式。
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path)
+   在 ZyGames.Test.autoTest.write(String name, String info) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 145
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 154
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 173
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+
+Time:2015-07-29 15:57:54:461-Trace>>Main error:System.NotSupportedException: 不支持给定路径的格式。
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path)
+   在 ZyGames.Test.autoTest.write(String name, String info) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 145
+   在 ZyGames.Test.autoTest.doRun(String fileName) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 139
+   在 ZyGames.Test.autoTest.run() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 154
+   在 ZyGames.Test.autoTest.RunTasks() 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test\AutoTest.cs:行号 173
+   在 ZyGames.Test.App.Program.Main(String[] args) 位置 c:\Users\tingjun\Documents\GitHub\ScutLogic\ZYTest\ZyGames.Test.App\Program.cs:行号 50
+
+

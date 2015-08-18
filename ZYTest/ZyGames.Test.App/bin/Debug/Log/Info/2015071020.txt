@@ -1,0 +1,650 @@
+Time:2015-07-10 20:04:17:804----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	1263.509900ms
+    Min:	1263.509900ms
+    Max:	1263.509900ms
+    TotalTime:	1264.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:38:765----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	213.598800ms
+    Min:	213.598800ms
+    Max:	213.598800ms
+    TotalTime:	213.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:40:420----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	247.913700ms
+    Min:	247.913700ms
+    Max:	247.913700ms
+    TotalTime:	248.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:40:870----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	213.640700ms
+    Min:	213.640700ms
+    Max:	213.640700ms
+    TotalTime:	214.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:42:666----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	1792.731700ms
+    Min:	1792.731700ms
+    Max:	1792.731700ms
+    TotalTime:	1793.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:44:707----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	2038.066700ms
+    Min:	2038.066700ms
+    Max:	2038.066700ms
+    TotalTime:	2038.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:04:45:982----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	1272.033000ms
+    Min:	1272.033000ms
+    Max:	1272.033000ms
+    TotalTime:	1272.000000ms
+End testing.
+
+
+
+20:36:41 script compiled successfully.
+Time:2015-07-10 20:36:50:632----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	8843.089700ms
+    Min:	8843.089700ms
+    Max:	8843.089700ms
+    TotalTime:	8965.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:37:01:759----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	2076.117300ms
+    Min:	2076.117300ms
+    Max:	2076.117300ms
+    TotalTime:	2076.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:37:09:340----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	2179.792300ms
+    Min:	2179.792300ms
+    Max:	2179.792300ms
+    TotalTime:	2180.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:37:23:335----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	8606.829500ms
+    Min:	8606.829500ms
+    Max:	8606.829500ms
+    TotalTime:	8607.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:38:30:728----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10061.873000ms
+    Min:	10061.873000ms
+    Max:	10061.873000ms
+    TotalTime:	10062.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:38:43:745----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10077.064100ms
+    Min:	10077.064100ms
+    Max:	10077.064100ms
+    TotalTime:	10077.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:38:56:759----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10051.100400ms
+    Min:	10051.100400ms
+    Max:	10051.100400ms
+    TotalTime:	10051.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:39:14:468----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10096.528400ms
+    Min:	10096.528400ms
+    Max:	10096.528400ms
+    TotalTime:	10096.000000ms
+End testing.
+
+
+
+20:40:53 script compiled successfully.
+Time:2015-07-10 20:41:05:100----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10163.932700ms
+    Min:	10163.932700ms
+    Max:	10163.932700ms
+    TotalTime:	10355.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:41:19:049----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10072.418900ms
+    Min:	10072.418900ms
+    Max:	10072.418900ms
+    TotalTime:	10072.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:43:03:742----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10078.311200ms
+    Min:	10078.311200ms
+    Max:	10078.311200ms
+    TotalTime:	10078.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:43:19:782----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	1
+>>Step 1001: success:0, fail:1
+    AVE:	10076.988400ms
+    Min:	10076.988400ms
+    Max:	10076.988400ms
+    TotalTime:	10077.000000ms
+End testing.
+
+
+
+20:44:08 script compiled successfully.
+Time:2015-07-10 20:44:09:339----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	519.656900ms
+    Min:	519.656900ms
+    Max:	519.656900ms
+    TotalTime:	642.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:10:175----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	11.733900ms
+    Min:	11.733900ms
+    Max:	11.733900ms
+    TotalTime:	12.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:10:585----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.624700ms
+    Min:	3.624700ms
+    Max:	3.624700ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:10:764----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.691000ms
+    Min:	3.691000ms
+    Max:	3.691000ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:10:942----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	9.079900ms
+    Min:	9.079900ms
+    Max:	9.079900ms
+    TotalTime:	9.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:091----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.367300ms
+    Min:	3.367300ms
+    Max:	3.367300ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:213----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.260000ms
+    Min:	3.260000ms
+    Max:	3.260000ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:327----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.078600ms
+    Min:	3.078600ms
+    Max:	3.078600ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:488----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.162500ms
+    Min:	3.162500ms
+    Max:	3.162500ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:617----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	4.466400ms
+    Min:	4.466400ms
+    Max:	4.466400ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:780----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	4.234600ms
+    Min:	4.234600ms
+    Max:	4.234600ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:11:929----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.613200ms
+    Min:	3.613200ms
+    Max:	3.613200ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:064----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.383600ms
+    Min:	3.383600ms
+    Max:	3.383600ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:211----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	2.987100ms
+    Min:	2.987100ms
+    Max:	2.987100ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:374----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	4.753800ms
+    Min:	4.753800ms
+    Max:	4.753800ms
+    TotalTime:	5.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:524----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	6.004600ms
+    Min:	6.004600ms
+    Max:	6.004600ms
+    TotalTime:	6.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:666----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.005900ms
+    Min:	3.005900ms
+    Max:	3.005900ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:809----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	5.597100ms
+    Min:	5.597100ms
+    Max:	5.597100ms
+    TotalTime:	5.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:12:953----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.314300ms
+    Min:	3.314300ms
+    Max:	3.314300ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:13:091----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.835600ms
+    Min:	3.835600ms
+    Max:	3.835600ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:13:246----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	3.394700ms
+    Min:	3.394700ms
+    Max:	3.394700ms
+    TotalTime:	3.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:13:380----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	4.347900ms
+    Min:	4.347900ms
+    Max:	4.347900ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:44:13:525----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:1, fail:0
+    AVE:	4.756700ms
+    Min:	4.756700ms
+    Max:	4.756700ms
+    TotalTime:	4.000000ms
+End testing.
+
+
+
+20:44:29 script compiled successfully.
+20:44:55 script compiled successfully.
+Time:2015-07-10 20:45:30:033----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:10000, fail:0
+    AVE:	15.042417ms
+    Min:	3.209100ms
+    Max:	294.138000ms
+    TotalTime:	33881.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:46:27:010----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:10000, fail:0
+    AVE:	19.768969ms
+    Min:	3.973700ms
+    Max:	554.950300ms
+    TotalTime:	44003.000000ms
+End testing.
+
+
+
+20:55:07 script compiled successfully.
+Time:2015-07-10 20:55:47:737----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1001
+Faild count:	0
+>>Step 1001: success:10000, fail:0
+    AVE:	38.000589ms
+    Min:	6.361700ms
+    Max:	1562.974000ms
+    TotalTime:	39454.000000ms
+End testing.
+
+
+
+Time:2015-07-10 20:58:58:776----------------------------------------------------
+ThreadNum:	10000
+Runtimes:	1
+Run steps:	1001
+Faild count:	105
+>>Step 1001: success:9895, fail:105
+    AVE:	545.503997ms
+    Min:	7.669500ms
+    Max:	19321.002000ms
+    TotalTime:	166352.000000ms
+End testing.
+
+
+
